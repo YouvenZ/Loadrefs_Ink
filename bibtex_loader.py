@@ -1,3 +1,10 @@
+
+# MIT License
+
+# Copyright (c) 2026 Rachid, Youven ZEGHLACHE
+#!/usr/bin/env python3
+
+
 #!/usr/bin/env python3
 """
 Inkscape extension to load reference files and add formatted references to drawings.
