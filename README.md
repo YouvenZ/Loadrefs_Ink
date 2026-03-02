@@ -1,4 +1,10 @@
-Collecting workspace information# BibTeX/Reference Loader for Inkscape
+
+
+<div align="center">
+
+
+
+# BibTeX/Reference Loader for Inkscape
 
 [![Inkscape](https://img.shields.io/badge/Inkscape-1.0+-blue.svg)](https://inkscape.org/)
 [![Python](https://img.shields.io/badge/Python-3.6+-green.svg)](https://www.python.org/)
@@ -7,6 +13,22 @@ Collecting workspace information# BibTeX/Reference Loader for Inkscape
 > **Automatically format and insert academic references into your Inkscape drawings**
 
 A powerful Inkscape extension that loads reference files (BibTeX, RIS, JSON, EndNote) and adds beautifully formatted citations to your scientific posters, presentations, and diagrams. Supports multiple citation styles (APA, MLA, Chicago, IEEE, Nature, and more).
+
+
+
+</div>
+
+## 📺 Demo
+
+<div align="center">
+
+<!-- Replace VIDEO_ID with your actual YouTube video ID -->
+[![Watch the Demo](https://img.youtube.com/vi/DsdnlkJSRNY/maxresdefault.jpg)](https://www.youtube.com/watch?v=DsdnlkJSRNY)
+
+*Click to watch the full tutorial on YouTube*
+
+</div>
+
 
 ---
 
